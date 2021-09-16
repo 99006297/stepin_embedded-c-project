@@ -1,5 +1,5 @@
-#ifndef act1_H_INCLUDED
-#define act1_H_INCLUDED
+#ifndef activity1_H_INCLUDED
+#define activity1_H_INCLUDED
 
 #define LED_PORT (PORTB)
 #define IN_PIN1 (PORTB6)
@@ -8,4 +8,4 @@
 void init_port();
 int detectUser();
 
-#endif // act1_H_INCLUDED
+#endif // activity1_H_INCLUDED
