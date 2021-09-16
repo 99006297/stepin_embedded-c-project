@@ -14,6 +14,14 @@ GIT CODACY BADGES
 -----------------
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9044e73b2e36471aafe90745af2d8804)](https://www.codacy.com/gh/99006297/stepin_embedded-c-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99006297/stepin_embedded-c-project&amp;utm_campaign=Badge_Grade)
 
+OTHER BADGES
+------------------------
+|Build|Cppcheck|
+|:--:|:--:|
+|[![Compile-Linux](https://github.com/255914/EmbeddedC_CaseStudy/actions/workflows/Compile.yml/badge.svg)](https://github.com/255914/EmbeddedC_CaseStudy/actions/workflows/Compile.yml)| [![Cppcheck](https://github.com/255914/EmbeddedC_CaseStudy/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/255914/EmbeddedC_CaseStudy/actions/workflows/CodeQuality.yml)
+
+
+
 CASE STUDY
 ----------
 ![case](https://user-images.githubusercontent.com/89571674/133559852-d3bcffef-51e9-4051-8908-a92b0e2fe94e.png)
