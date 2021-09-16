@@ -1,7 +1,7 @@
-#include "act1.h"
-#include "act2.h"
-#include "act3.h"
-#include "act4.h"
+#include "activity1.h"
+#include "activity2.h"
+#include "activity3.h"
+#include "activityt4.h"
 #include <util/delay.h>
 
 /**
