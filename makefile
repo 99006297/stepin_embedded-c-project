@@ -1,4 +1,4 @@
-PROJ_NAME = Activities
+PROJ_NAME = CaseStudy
 
 BUILD_DIR = Build
 
